@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm SentoMK</h1>
+<h1 align="center">🛹🚑</h1>
 <h3 align="center">https://www.sentomk.icu</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sentomk&label=Profile%20views&color=0e75b6&style=flat" alt="sentomk" /> </p>
+<p>connect with me: <a href="mailto:sentomk040924@gmail.com">email^_~</a></p>
+  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sentomk" alt="sentomk" /></a> </p>
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,lua,unreal,linux,rust)](https://skillicons.dev)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=sentomk&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sentomk&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sentomk&show_icons=true&locale=en&layout=compact" alt="sentomk" /></p>
