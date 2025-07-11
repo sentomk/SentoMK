@@ -9,7 +9,6 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sentomk&show_icons=true&locale=en&layout=compact" alt="sentomk" /></p>
