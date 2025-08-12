@@ -10,6 +10,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,lua,unreal,linux,rust)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sentomk&theme=dracula)]
+
 ## 𝑺𝒕𝒂𝒕𝒔
 
 ![sentomk's github stats](https://github-readme-stats.vercel.app/api?username=sentomk&show_icons=true&theme=dracula)
