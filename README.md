@@ -3,4 +3,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,lua,unreal,linux,rust)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sentomk&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sentomk&theme=prussian&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
