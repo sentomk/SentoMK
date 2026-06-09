@@ -1,4 +1,3 @@
-- :book: &nbsp;Learn more about me and my projects on **[sentomk.me](https://www.sentomk.me)**
 - :computer: &nbsp;Reach me via **[email](mailto:sentomk@proton.me)**
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cmake,linux,unreal,lua,rust)](https://skillicons.dev)
